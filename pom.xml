@@ -84,7 +84,7 @@
     <spa.project.core.version>1.3.12</spa.project.core.version>
             
     <componentGroupName>Aemjenkin</componentGroupName>
-        
+     <aemanalyser.version>1.4.10</aemanalyser.version>   
   </properties>
       
   <build>
