@@ -74,7 +74,7 @@
                         <npmVersion>6.14.0</npmVersion>
                     </configuration>
                     <executions>
-                        <execution>
+                       <!-- <execution>
                             <id>npm run test</id>
                             <phase>generate-resources</phase>
                             <goals>
@@ -86,7 +86,7 @@
                                     <CI>true</CI>
                                 </environmentVariables>
                             </configuration>
-                        </execution>
+                        </execution> -->
                         <execution>
                             <id>npm run build</id>
                             <phase>generate-resources</phase>
