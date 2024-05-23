@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/conf/aemjenkin" mode="merge"/>
+    <filter root="/content/aemjenkin" mode="merge"/>
+    <filter root="/content/dam/aemjenkin/asset.jpg" mode="merge"/>
+    <filter root="/content/experience-fragments/aemjenkin" mode="merge"/>
+</workspaceFilter>
